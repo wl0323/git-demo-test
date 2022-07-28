@@ -6,5 +6,7 @@ public class GitTest {
         System.out.println("hello wl!");
         System.out.println("hello wl1!");
         System.out.println("hello.txt");
+        System.out.println("master test");
+
     }
 }
